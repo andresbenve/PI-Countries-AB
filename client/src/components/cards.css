@@ -1,0 +1,31 @@
+/* .cards{
+    flex-direction: column;
+    float: left;
+    
+    
+    
+}
+.cards2{
+    background-color:blueviolet;
+    flex-direction: column;
+    margin: 0,2cm;
+    
+    
+} */
+.cards4{
+    
+    background-color:chartreuse;
+    float: left;
+    margin: 0.5cm;
+    padding-left: 0.3cm;
+    padding-right: 0.3cm;
+    padding-bottom: 0cm;
+    border-radius: 10px;
+    max-height: 7cm;
+}
+.type{
+    color: black;
+    text-transform: uppercase;
+    padding: 0.5cm;
+    max-width: 5cm;
+}

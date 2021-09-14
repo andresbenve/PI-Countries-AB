@@ -1,0 +1,74 @@
+/* .principal{
+    background-color: black;
+    background-image: url(./img/fondo-home.png) ;
+    background-position: center top ;
+    background-repeat: no-repeat;
+    background-size: 52cm 30cm;
+    padding-bottom: 10cm;
+}
+
+
+.text{
+    text-decoration: blanchedalmond;
+} */
+.principal{
+    background-color: rgb(224, 233, 233);
+    padding-bottom: 10cm;
+}
+
+.nav{
+    flex-direction: column-reverse;
+    float: left;
+    margin: 0cm;
+    margin-left: 1cm;
+    margin-top: 0cm;
+}
+
+.nav2{
+    flex-direction: column-reverse;
+    float: right;
+    margin:1cm;
+    margin-right:2cm;
+    margin-top: 0cm;
+    
+}
+/* 
+.nav3{
+    flex-direction:column;
+    float:none;
+    margin: 1cm;
+    margin-left: 1cm;
+    
+} */
+
+.nav4{
+
+    margin-left: 0.5cm;
+
+}
+.nav5{
+    margin-top: 15cm;
+    padding-bottom: 0.5cm;
+}
+.nav6{
+    padding-bottom: 1cm;
+    padding-top: 0.5cm;
+    background-color:lightgray;
+}
+.button2{
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 200;
+    letter-spacing: 2px;
+    padding: 13px 50px 13px;
+    outline: 0;
+    border: 1px solid black;
+    cursor: pointer;
+    position: relative;
+    background-color:lightgray;
+}
+
+.buttonextra{
+    background-color: lightseagreen;
+    border: none;
+}

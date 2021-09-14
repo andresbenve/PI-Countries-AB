@@ -1,0 +1,49 @@
+.detail{
+    padding-top: 1cm;
+    padding-left: 1cm;
+    display: flex;
+    align-content: center;
+    background-color:lightsteelblue;
+    padding-bottom: 10cm;
+    
+}
+.divbutton{
+    margin-top: 1cm;
+    padding-right: 1cm;
+    padding-left: 2cm;
+}
+.button2{
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 200;
+    letter-spacing: 2px;
+    padding: 13px 50px 13px;
+    outline: 0;
+    border: 1px solid black;
+    cursor: pointer;
+    position: relative;
+    background-color:lightseagreen;
+}
+.button8{
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 200;
+    letter-spacing: 2px;
+    padding: 13px 50px 13px;
+    outline: 0;
+    border: 1px solid black;
+    cursor: pointer;
+    position: relative;
+    background-color:lightseagreen;
+}
+.classforimg{
+    margin: 1cm;
+    
+}
+/* 
+.nocolor{
+    background-color: none;
+} */
+.h{
+    padding-left: 1000px;
+}
